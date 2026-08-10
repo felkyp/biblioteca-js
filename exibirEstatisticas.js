@@ -27,5 +27,5 @@ export function exibirEstatisticas() {
     console.log(`Quantidade de livros disponíveis: ${quantidadeDisponiveis}`);
     console.log(`Quantidade de livros indisponíveis: ${quantidadeIndisponiveis}`);
     console.log(`Total de páginas: ${totalPaginas}`);
-    console.log(`Média de páginas por livro: ${mediaPaginas.toFixed(2)}`);
+    console.log(`Média de páginas por cada livro: ${mediaPaginas.toFixed(2)}`);
 }
