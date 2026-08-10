@@ -10,11 +10,11 @@ export function realizarEmprestimo(titulo) {
 
         livro.disponivel = false;
 
-        console.log("\nLivro emprestado com sucesso!");
+        console.log("\nEste livro foi emprestado com sucesso!");
 
     } else {
 
-        console.log("\nLivro indisponível!");
+        console.log("\nEste livro não está disponível para empréstimo!");
 
     }
 }
