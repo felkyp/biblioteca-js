@@ -10,7 +10,7 @@ O projeto simula um sistema de biblioteca, permitindo cadastrar, buscar, listar,
 
 ### ---Grupo---
 
-Felipe Schemberger Miranda Pereira  
+Felipe Schemberger Miranda Pereira<br>
 Allan Miranda Pereira  
 
  ## ---Funcionalidade---
