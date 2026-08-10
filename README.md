@@ -1,5 +1,7 @@
  # Biblioteca JavaScript
 
+Projeto desenvolvido em JavaScript para gerenciamento de livros.
+
 Sistema de gerenciamento de uma biblioteca desenvolvido em JavaScript.
 
  ## ---Sobre o projeto---
