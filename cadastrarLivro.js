@@ -23,5 +23,5 @@ export function cadastrarLivro() {
 
     dadosLivros.push(novoLivro);
 
-    console.log("\nLivro cadastrado com sucesso!");
+    console.log("\nEste livro foi cadastrado com sucesso!");
 }
