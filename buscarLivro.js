@@ -20,7 +20,7 @@ export function buscarLivro(titulo) {
 
     } else {
 
-        console.log("\nLivro não encontrado!");
+        console.log("\nEste livro não foi encontrado!");
 
     }
 }
