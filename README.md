@@ -8,7 +8,7 @@ Sistema de gerenciamento de uma biblioteca desenvolvido em JavaScript.
 
 O projeto simula um sistema de biblioteca, permitindo cadastrar, buscar, listar, emprestar e devolver livros, além de apresentar estatísticas sobre os livros cadastrados.
 
-### ---Grupo---
+### Grupo:
 
 Felipe Schemberger Miranda Pereira<br>
 Allan Miranda Pereira  
