@@ -61,13 +61,13 @@ node index.js
 
 O sistema começa com 10 livros cadastrados:
 
-Harry Potter
-O Senhor dos Anéis
-O Diário de Anne Frank
-O Pequeno Príncipe
-Frankenstein
-Alice no País das Maravilhas
-As Crônicas de Nárnia
-Duna
-Coraline
-A Revolução dos Bichos
+JavaScript para Iniciantes
+CSS Moderno
+HTML Essencial
+Lógica de Programação
+Banco de Dados
+Git e GitHub
+Node.js na Prática
+UX Design
+Angular Completo
+React para Web
