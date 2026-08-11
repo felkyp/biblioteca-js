@@ -71,4 +71,4 @@ const dadosLivros = [
     }
 ];
 
-export default dadosLivros;
+export { dadosLivros };
